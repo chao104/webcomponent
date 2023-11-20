@@ -1,0 +1,16 @@
+.container {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  border: 2px solid black;
+  padding: 12px;
+  background-color: rgb(110, 206, 158);
+  margin: 0 auto;
+}
+
+.test {
+  color: green
+}
